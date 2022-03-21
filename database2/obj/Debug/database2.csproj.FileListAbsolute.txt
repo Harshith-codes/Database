@@ -1,0 +1,27 @@
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\bin\Debug\database2.exe.config
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\bin\Debug\database2.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\bin\Debug\database2.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.Form1.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.Properties.Resources.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.FormAdmincs.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\C#\database2\database2\obj\Debug\database2.Formstart.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\bin\Debug\database2.exe.config
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\bin\Debug\database2.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\bin\Debug\database2.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.Form1.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.FormAdmincs.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.Formstart.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.Properties.Resources.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\COMPLETED\C#\database2\database2\obj\Debug\database2.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Continous integration and continous development\database2\database2\obj\Debug\database2.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Continous integration and continous development\database2\database2\obj\Debug\database2.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Continous integration and continous development\database2\database2\obj\Debug\database2.pdb
